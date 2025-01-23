@@ -1,4 +1,4 @@
 Votre nom
 Votre prénom
 La date
-Une personnalité que vous admirez
+Bruce Wayne parce qu'il est trop classe !
