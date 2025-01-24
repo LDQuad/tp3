@@ -8,6 +8,9 @@ Bruce Wayne parce qu'il est trop classe !
 - Languages : (ex: JavaScript, Python, Java...)
 - Frameworks : (ex: React, Spring, Laravel...)
 - Outils : (ex: VS Code, Git, Docker...)
+- toto
+- titi
+- tata
 
 ## Soft Skills
 
