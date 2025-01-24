@@ -20,3 +20,5 @@ Bruce Wayne parce qu'il est trop classe !
 - (ex: Développement web)
 - (ex: Intelligence artificielle)
 - (ex: DevOps)
+- Comics
+- Découpeuse laser
