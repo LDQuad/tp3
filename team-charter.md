@@ -8,9 +8,7 @@
 
 ## Nos Objectifs
 
-- Livrer des features de qualité
-- Maintenir un code propre
-- Partager les connaissances
+- partir en week-end
 
 ## Nos Méthodes
 
