@@ -8,6 +8,8 @@ Bruce Wayne parce qu'il est trop classe !
 - Languages : (ex: JavaScript, Python, Java...)
 - Frameworks : (ex: React, Spring, Laravel...)
 - Outils : (ex: VS Code, Git, Docker...)
+- Comics
+- Découpeuse laser
 
 ## Soft Skills
 
@@ -20,5 +22,3 @@ Bruce Wayne parce qu'il est trop classe !
 - (ex: Développement web)
 - (ex: Intelligence artificielle)
 - (ex: DevOps)
-- Comics
-- Découpeuse laser
