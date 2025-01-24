@@ -5,6 +5,7 @@ Bruce Wayne parce qu'il est trop classe !
 
 ## Compétences techniques
 
+// Suggestion : ajouter Docker aux compétences
 - Languages : (ex: JavaScript, Python, Java...)
 - Frameworks : (ex: React, Spring, Laravel...)
 - Outils : (ex: VS Code, Git, Docker...)
